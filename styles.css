@@ -4,8 +4,7 @@
 }
 
 html {
-    
-    position: static;
+    box-sizing: border-box;
     background-image: -webkit-linear-gradient(0deg, #1c7891 60%, #47154a 90%);
 }
 
